@@ -1,20 +1,20 @@
 ## Intro
-A place to track my learning materials, readings, and projects.
+A place to track my learning materials, readings, and projects. A public place to keep track and stay motivated.
 
 ## Tasks
 - [ ] [Home Credit loan default](https://www.kaggle.com/c/home-credit-default-risk)
 - [ ] [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning)
 - [ ] [mlcourse.ai](https://mlcourse.ai/)
-- [ ] Applied Predictive Modeling by Max Kuhn and Gjell Johnson
+- [ ] Applied Predictive Modeling (Kuhn and Johnson)
 - [ ] [fast.ai](http://www.fast.ai/)
 
-## My projects
+## Completed projects
 
-## Coursework
+## Completed coursework
 
-## Books 
+## Completed books 
 
-## Research
+## Research papers
 
 ## Articles
 
