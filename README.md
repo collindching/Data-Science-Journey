@@ -8,17 +8,14 @@ A place to track my learning materials, readings, and projects.
 - [ ] Applied Predictive Modeling by Max Kuhn and Gjell Johnson
 - [ ] [fast.ai](http://www.fast.ai/)
 
-## Things I've done
-### My projects
+## My projects
 
-### Coursework
+## Coursework
 
+## Books 
 
-## Things I've read
-### Books 
+## Research
 
-### Research
-
-### Articles
+## Articles
 
 
