@@ -1,5 +1,5 @@
 ## Intro
-A place to track the learning materials I've used, things I've read, and projects I've worked on
+A place to track my learning materials, readings, and projects.
 
 ## Tasks
 - [ ] [Home Credit loan default](https://www.kaggle.com/c/home-credit-default-risk)
