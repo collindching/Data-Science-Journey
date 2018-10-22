@@ -1,5 +1,5 @@
 ## Intro
-A place to track my learning materials, readings, and projects.
+A place to track my learning materials, readings, and projects. A public place to keep track and stay motivated.
 
 ## Tasks
 - [ ] [Home Credit loan default](https://www.kaggle.com/c/home-credit-default-risk)
@@ -16,6 +16,10 @@ A place to track my learning materials, readings, and projects.
 
 ## Research papers
 
-## Articles
+## Articles/blogs
+
+| Topic | Link |
+| --- | --- |
+| Kernel Density Estimation | https://mathisonian.github.io/kde/ |
 
 
