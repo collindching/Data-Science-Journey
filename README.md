@@ -20,6 +20,7 @@ A place to track my learning materials, readings, and projects. A public place t
 
 | Topic | Link |
 | --- | --- |
-| Kernel Density Estimation | https://mathisonian.github.io/kde/ |
+| Hyperparameter tuning methods | https://www.jeremyjordan.me/hyperparameter-tuning/ |
+| Kernel density estimation | https://mathisonian.github.io/kde/ |
 
 
