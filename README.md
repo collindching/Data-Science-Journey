@@ -2,13 +2,13 @@
 A place to track my learning materials, readings, and projects. A public place to keep track and stay motivated.
 
 ## Tasks
-- [ ] [Home Credit loan default](https://www.kaggle.com/c/home-credit-default-risk)
-- [ ] [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning)
-- [ ] [mlcourse.ai](https://mlcourse.ai/)
 - [ ] Applied Predictive Modeling (Kuhn and Johnson)
 - [ ] [fast.ai](http://www.fast.ai/)
+- [ ] [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning)
+- [x] [Home Credit default risk](https://www.kaggle.com/c/home-credit-default-risk)
 
 ## Completed projects
+* Home Credit default risk (Achieved AUC of .775 but burnt out. Shelved, writeup to come.) 
 
 ## Completed coursework
 
