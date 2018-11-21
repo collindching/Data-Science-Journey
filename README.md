@@ -20,7 +20,7 @@ A place to track my learning materials, readings, and projects. A public place t
 
 | Topic | Link |
 | --- | --- |
-| Hyperparameter tuning methods | https://www.jeremyjordan.me/hyperparameter-tuning/ |
+| Overview of parameter tuning methods | https://www.jeremyjordan.me/hyperparameter-tuning/ |
 | Kernel density estimation | https://mathisonian.github.io/kde/ |
 | Running RStudio on AWS EC2 | https://www.youtube.com/watch?v=NQu3ugUkYTk |
 
