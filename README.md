@@ -1,5 +1,5 @@
 ## Intro
-A place to track my learning materials, readings, and projects. A public place to keep track and stay motivated.
+A place to track my learning materials, readings, and projects.
 
 ## Tasks
 - [ ] Applied Predictive Modeling (Kuhn and Johnson)
