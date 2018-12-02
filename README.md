@@ -2,7 +2,7 @@
 A place to track my learning materials, readings, and projects.
 
 ## Tasks
-- [ ] Mining Massive Datasets
+- [ ] Mining Massive Datasets (Stanford online)
 - [ ] [Bloomberg Foundations of Machine Learning](https://bloomberg.github.io/foml/#home)
 - [ ] Applied Predictive Modeling (Kuhn and Johnson)
 - [ ] [fast.ai](http://www.fast.ai/)
