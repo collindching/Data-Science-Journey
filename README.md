@@ -1,5 +1,5 @@
 ## Intro
-Personal tracking of coursework, readings, and projects.
+Tracking personal coursework, readings, and projects.
 
 ## Tasks
 - [ ] Mining Massive Datasets (Stanford online)
