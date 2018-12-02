@@ -1,5 +1,5 @@
 ## Intro
-A place to track my learning materials, readings, and projects.
+Personal tracking of coursework, readings, and projects.
 
 ## Tasks
 - [ ] Mining Massive Datasets (Stanford online)
