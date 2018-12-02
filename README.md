@@ -2,6 +2,7 @@
 Tracking personal coursework, readings, and projects.
 
 ## Tasks
+- [ ] AWS Certifications
 - [ ] Mining Massive Datasets (Stanford online)
 - [ ] [Bloomberg Foundations of Machine Learning](https://bloomberg.github.io/foml/#home)
 - [ ] Applied Predictive Modeling (Kuhn and Johnson)
