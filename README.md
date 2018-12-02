@@ -10,7 +10,7 @@ A place to track my learning materials, readings, and projects.
 - [x] [Home Credit default risk](https://www.kaggle.com/c/home-credit-default-risk) - completed Nov '18
 
 ## Completed projects
-* Home Credit default risk (Achieved AUC of .775 but burnt out. Shelved, writeup to come.) 
+* Home Credit default risk (Achieved AUC of .775. Shelved, writeup to come.) 
 
 ## Completed coursework
 * Coursera Machine Learning by Andrew Ng
