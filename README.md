@@ -14,8 +14,8 @@ Tracking personal projects, coursework, and readings.
 - [Bloomberg Foundations of Machine Learning](https://bloomberg.github.io/foml/#home)
 
 ## Timeline
-- [X] [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) - completed Dec '18
-- [x] [Home Credit default risk](https://www.kaggle.com/c/home-credit-default-risk) - completed Nov '18
+- [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) - completed Dec '18
+- [Home Credit default risk](https://www.kaggle.com/c/home-credit-default-risk) - completed Nov '18
 
 ## Completed projects
 * Home Credit default risk (Achieved AUC of .775. Shelved, writeup to come.) 
