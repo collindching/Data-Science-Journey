@@ -1,12 +1,19 @@
 ## Intro
-Tracking personal coursework, readings, and projects.
+Tracking personal projects, coursework, and readings.
 
-## Tasks
-- [ ] AWS Certifications
-- [ ] Mining Massive Datasets (Stanford online)
-- [ ] [Bloomberg Foundations of Machine Learning](https://bloomberg.github.io/foml/#home)
-- [ ] Applied Predictive Modeling (Kuhn and Johnson)
-- [ ] [fast.ai](http://www.fast.ai/)
+## In-progress
+- [fast.ai](http://www.fast.ai/)
+- Stanford's CS231
+- San Francisco housing project
+- Fundraising analytics project
+
+## To-dos
+- Applied Predictive Modeling (Kuhn, Johnson)
+- AWS Certifications
+- Mining Massive Datasets (Stanford online)
+- [Bloomberg Foundations of Machine Learning](https://bloomberg.github.io/foml/#home)
+
+## Timeline
 - [X] [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) - completed Dec '18
 - [x] [Home Credit default risk](https://www.kaggle.com/c/home-credit-default-risk) - completed Nov '18
 
@@ -14,7 +21,7 @@ Tracking personal coursework, readings, and projects.
 * Home Credit default risk (Achieved AUC of .775. Shelved, writeup to come.) 
 
 ## Completed coursework
-* Coursera Machine Learning by Andrew Ng
+* Machine Learning by Andrew Ng (Coursera)
 
 ## Completed books 
 
