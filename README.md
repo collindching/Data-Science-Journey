@@ -3,15 +3,16 @@ Tracking personal projects, coursework, and readings.
 
 ## In-progress
 - [fast.ai](http://www.fast.ai/)
-- Stanford's CS231
 - San Francisco housing project
 - Fundraising analytics project
+- Fundamentals of Probability (MIT OCW)
 
 ## To-dos
 - Applied Predictive Modeling (Kuhn, Johnson)
 - AWS Certifications
 - Mining Massive Datasets (Stanford online)
 - [Bloomberg Foundations of Machine Learning](https://bloomberg.github.io/foml/#home)
+- Stanford's CS231
 
 ## Timeline
 - [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) - completed Dec '18
