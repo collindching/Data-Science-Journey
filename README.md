@@ -3,7 +3,6 @@ Tracking personal projects, coursework, and readings.
 
 ## In-progress
 Learning:
-- Fundamentals of Probability (MIT OCW)
 - Statistical Inference (Casella and Berger)
 - [fast.ai](http://www.fast.ai/)
 
