@@ -2,10 +2,16 @@
 Tracking personal projects, coursework, and readings.
 
 ## In-progress
+
+Learning:
+- Fundamentals of Probability (MIT OCW)
+- Statistical Inference (Casella and Berger)
 - [fast.ai](http://www.fast.ai/)
+
+Personal projects:
 - San Francisco housing project
 - Fundraising analytics project
-- Fundamentals of Probability (MIT OCW)
+
 
 ## To-dos
 - Applied Predictive Modeling (Kuhn, Johnson)
