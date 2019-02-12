@@ -14,7 +14,6 @@ Personal projects:
 - Mining Massive Datasets (Stanford online)
 - [Bloomberg Foundations of Machine Learning](https://bloomberg.github.io/foml/#home)
 - Stanford's CS231
-- fast.ai
 
 ## Timeline
 - [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) - completed Dec '18
