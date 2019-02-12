@@ -11,11 +11,10 @@ Personal projects:
 - Fundraising analytics project
 
 ## To-dos
-- Applied Predictive Modeling (Kuhn, Johnson)
-- AWS Certifications
 - Mining Massive Datasets (Stanford online)
 - [Bloomberg Foundations of Machine Learning](https://bloomberg.github.io/foml/#home)
 - Stanford's CS231
+- fast.ai
 
 ## Timeline
 - [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) - completed Dec '18
@@ -23,6 +22,7 @@ Personal projects:
 
 ## Completed projects
 * Home Credit default risk (Achieved AUC of .775. Writeup to come.) 
+* [San Francisco housing visualizations](https://github.com/collindching/sf_housing) 
 
 ## Completed coursework
 * Machine Learning by Andrew Ng (Coursera)
