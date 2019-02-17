@@ -3,9 +3,9 @@ Tracking personal projects, coursework, and readings.
 
 ## In-progress
 Learning:
-- [fast.ai](http://www.fast.ai/)
-- Learn Python the Hard Way
-- Statistical Inference (Casella and Berger)
+1. [fast.ai](http://www.fast.ai/)
+2. Learn Python the Hard Way
+3. Statistical Inference (Casella and Berger)
 
 ## To-dos
 - Mining Massive Datasets (Stanford online)
