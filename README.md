@@ -4,7 +4,7 @@ Tracking personal projects, coursework, and readings.
 ## In-progress
 Learning:
 1. [fast.ai](http://www.fast.ai/)
-2. Learn Python the Hard Way
+2. [Full Stack Python](https://www.fullstackpython.com/table-of-contents.html)
 3. Statistical Inference (Casella and Berger)
 
 ## To-dos
