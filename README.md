@@ -3,18 +3,14 @@ Tracking personal projects, coursework, and readings.
 
 ## In-progress
 Learning:
-- Statistical Inference (Casella and Berger)
 - [fast.ai](http://www.fast.ai/)
-
-Personal projects:
-- San Francisco housing project
-- Fundraising analytics project
+- Learn Python the Hard Way
+- Statistical Inference (Casella and Berger)
 
 ## To-dos
 - Mining Massive Datasets (Stanford online)
 - [Bloomberg Foundations of Machine Learning](https://bloomberg.github.io/foml/#home)
 - Stanford's CS231
-- Learn Python the Hard Way
 
 ## Timeline
 - [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) - completed Dec '18
