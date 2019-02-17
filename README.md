@@ -7,6 +7,8 @@ Learning:
 2. [Full Stack Python](https://www.fullstackpython.com/table-of-contents.html)
 3. Statistical Inference (Casella and Berger)
 
+https://blog.treasuredata.com/blog/2016/03/15/self-study-list-for-data-engineers-and-aspiring-data-architects/
+
 ## To-dos
 - Mining Massive Datasets (Stanford online)
 - [Bloomberg Foundations of Machine Learning](https://bloomberg.github.io/foml/#home)
