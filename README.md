@@ -18,8 +18,8 @@ https://www.analyticsvidhya.com/blog/2018/11/data-engineer-comprehensive-list-re
 - [Bloomberg Foundations of Machine Learning](https://bloomberg.github.io/foml/#home)
 - Stanford's CS231
 
-| Resource | Completed |
-| -------- | --------- |
+| Learning Resource | Completed |
+| ----------------- | --------- |
 | [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) | Dec 2018 |
 
 | Project | Completed | Notes | 
