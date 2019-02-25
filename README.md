@@ -1,6 +1,7 @@
 This repo is for tracking personal projects, coursework, and readings.
 
 ### In progress
+
 Learning:
 1. [fast.ai](http://www.fast.ai/)
 2. [Full Stack Python](https://www.fullstackpython.com/table-of-contents.html)
@@ -14,9 +15,12 @@ https://blog.treasuredata.com/blog/2016/03/15/self-study-list-for-data-engineers
 https://www.analyticsvidhya.com/blog/2018/11/data-engineer-comprehensive-list-resources-get-started/
 
 ### To-do
+
 - Mining Massive Datasets (Stanford online)
 - [Bloomberg Foundations of Machine Learning](https://bloomberg.github.io/foml/#home)
 - Stanford's CS231
+
+### Completed
 
 | Learning Resource | Completed |
 | ----------------- | --------- |
