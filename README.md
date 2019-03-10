@@ -1,4 +1,4 @@
-# Learning progress
+# My Learning Progress
 
 This repo is for tracking personal projects, coursework, and readings.
 
