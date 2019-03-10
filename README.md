@@ -1,3 +1,5 @@
+# Learning progress
+
 This repo is for tracking personal projects, coursework, and readings.
 
 ### In progress
