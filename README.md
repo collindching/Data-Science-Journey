@@ -5,11 +5,11 @@ This repo is for tracking personal projects, coursework, and readings.
 ## What I'm working on
 
 Learning:
-1. [fast.ai](http://www.fast.ai/)
-2. [Full Stack Python](https://www.fullstackpython.com/table-of-contents.html)
-3. Hands-On ML with Scikit-Learn & Tensorflow
-4. Statistical Inference (Casella and Berger)
-5. SQLZoo
+- Hands-On ML with Scikit-Learn & Tensorflow
+- [fast.ai](http://www.fast.ai/)
+- [Full Stack Python](https://www.fullstackpython.com/table-of-contents.html)
+- Statistical Inference (Casella and Berger)
+- SQLZoo
 
 Project:
 1. Analyzing cryptocurrency exchange volume
