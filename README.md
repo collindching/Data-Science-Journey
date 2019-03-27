@@ -7,14 +7,12 @@ This repo is for tracking personal projects, coursework, and readings.
 Learning:
 1. [fast.ai](http://www.fast.ai/)
 2. [Full Stack Python](https://www.fullstackpython.com/table-of-contents.html)
-3. Statistical Inference (Casella and Berger)
-4. SQLZoo
+3. Hands-On ML with Scikit-Learn & Tensorflow
+4. Statistical Inference (Casella and Berger)
+5. SQLZoo
 
 Project:
-1. 
-2. United?
-https://blog.treasuredata.com/blog/2016/03/15/self-study-list-for-data-engineers-and-aspiring-data-architects/
-https://www.analyticsvidhya.com/blog/2018/11/data-engineer-comprehensive-list-resources-get-started/
+1. Analyzing cryptocurrency exchange volume
 
 ## Thing I'd like to work on
 
