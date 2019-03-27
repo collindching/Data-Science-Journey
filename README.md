@@ -11,8 +11,8 @@ Learning:
 - Statistical Inference (Casella and Berger)
 - SQLZoo
 
-Project:
-1. Analyzing cryptocurrency exchange volume
+Projects:
+- Analyzing cryptocurrency exchange volume
 
 ## Thing I'd like to work on
 
