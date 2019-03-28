@@ -5,9 +5,9 @@ This repo is for tracking personal projects, coursework, and readings.
 ## What I'm working on
 
 Learning:
-- Hands-On ML with Scikit-Learn & Tensorflow
-- [fast.ai](http://www.fast.ai/)
-- [Full Stack Python](https://www.fullstackpython.com/table-of-contents.html)
+- **Hands-On ML with Scikit-Learn & Tensorflow**
+- **[fast.ai](http://www.fast.ai/)**
+- **[Full Stack Python](https://www.fullstackpython.com/table-of-contents.html)**
 - Statistical Inference (Casella and Berger)
 - SQLZoo
 
