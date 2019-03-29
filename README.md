@@ -2,6 +2,8 @@
 
 This repo is for tracking personal projects, coursework, and readings.
 
+My current interests: machine learning in Python, software engineering in Python, computer vision, and natural language processing
+
 ## What I'm working on
 
 Learning:
