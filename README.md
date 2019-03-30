@@ -5,7 +5,7 @@ This repo is for tracking personal projects, coursework, and readings.
 
 ## What I'm working on
 
-My current interests learning interests are: finding enterprise machine learning applications, learning software engineering in Python, and natural language processing.
+My current interests learning interests are: building machine learning applications, learning software engineering in Python, and natural language processing.
 
 Learning:
 - **Hands-On ML with Scikit-Learn & Tensorflow**
