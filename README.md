@@ -22,7 +22,7 @@ Projects:
 - [Bloomberg Foundations of Machine Learning](https://bloomberg.github.io/foml/#home)
 - Stanford's CS231
 - [Coursera Social Media Data Analytics](https://www.coursera.org/learn/social-media-data-analytics)
-- Mining the Social Web
+- [Mining the Social Web](https://www.webpages.uidaho.edu/~stevel/504/mining-the-social-web-2nd-edition.pdf)
 
 ## Things I've completed
 
