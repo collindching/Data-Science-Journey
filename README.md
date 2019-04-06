@@ -4,7 +4,7 @@ This repo is for tracking personal projects, coursework, and readings.
 
 ### My goals for 2019: 
 
-I'm hoping to upskill a lot this year. The biggest hurdle will be finding a good study routine outside of work. I'll be tracking time in a spreadsheet so I can do an audit at the end of the year.
+I'm hoping to upskill a lot this year through self-learning. The biggest hurdle will be finding a good study routine outside of work. I'll be tracking time in a spreadsheet so I can do an audit at the end of the year.
 
 - **Time investment:** 
     - Log 440 study and project hours in data science and SWE from February to December
