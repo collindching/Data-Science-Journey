@@ -4,7 +4,9 @@ This repo is for tracking personal projects, coursework, and readings.
 
 ### My goals for 2019: 
 
-I'm hoping to upskill a lot this year through self-learning. My biggest hurdle will be sticking to a study routine outside of work and working hard while managing fatigue. I'll be tracking time in a spreadsheet so I can do an audit at the end of the year.
+Hoping to grow a lot this year in my data skills. My biggest hurdles will be maintaining a study routine alongside full-time work and managing fatigue. 
+
+I'm track time in a spreadsheet to do an audit at the end of the year.
 
 - **Time investment:** 
     - Log 440 study and project hours in data science and SWE from February to December
@@ -14,7 +16,7 @@ I'm hoping to upskill a lot this year through self-learning. My biggest hurdle w
         - Build a consumer product with Python, host with flask (~40 hrs)
     - Build 5 side projects (~100 hours)
 - **To learn:**
-    - Learn Python for both data analysis and SWE (>100 hrs)
+    - Learn Python for SWE (>100 hrs)
     - Learn natural language processing (>60 hours)
     - Learn basic time series analysis (>30 hours)
 
