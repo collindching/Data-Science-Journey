@@ -2,10 +2,12 @@
 
 This repo is for tracking personal projects, coursework, and readings.
 
+Goal for 2019: log 480 hours on data science and SWE.
+
 
 ## What I'm working on
 
-My current interests learning interests are: building machine learning applications, learning software engineering in Python, and natural language processing.
+My current learning interests: building machine learning applications, learning software engineering in Python, and natural language processing. 
 
 Learning:
 - **Hands-On ML with Scikit-Learn & Tensorflow**
@@ -24,6 +26,7 @@ Projects:
 - Stanford's CS231
 - [Coursera Social Media Data Analytics](https://www.coursera.org/learn/social-media-data-analytics)
 - [Mining the Social Web](https://www.webpages.uidaho.edu/~stevel/504/mining-the-social-web-2nd-edition.pdf)
+- Coursera Deep Learning Specialization
 
 ## Things I've completed
 
