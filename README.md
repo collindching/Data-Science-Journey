@@ -2,7 +2,15 @@
 
 This repo is for tracking personal projects, coursework, and readings.
 
-Goal for 2019: log 480 hours on data science and SWE.
+Goals for 2019: 
+- Log 440 study/project hours in data science and SWE from February to December
+- Make 12 Medium posts (~100 hours)
+- Learn natural language processing (>60 hours)
+- Learn basic time series analysis (>30 hours)
+- Learn Python SWE (>100 hrs)
+- Build 2 products (~80 hours)
+    - Build a consumer product with Python, host with flask (~40 hrs)
+
 
 
 ## What I'm working on
