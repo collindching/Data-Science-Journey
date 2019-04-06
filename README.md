@@ -2,7 +2,7 @@
 
 This repo is for tracking personal projects, coursework, and readings.
 
-### My goals for 2019: 
+### Personal goals for 2019: 
 
 Hoping to grow a lot this year in my data skills. My biggest hurdles will be maintaining a study routine alongside full-time work and managing fatigue. 
 
