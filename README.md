@@ -11,7 +11,7 @@ This repo is for tracking personal projects, coursework, and readings.
         - Build a consumer product with Python, host with flask (~40 hrs)
     - Build 5 side projects (~100 hours)
 - **To learn:**
-    - Learn Python SWE (>100 hrs)
+    - Learn Python for both data analysis and SWE (>100 hrs)
     - Learn natural language processing (>60 hours)
     - Learn basic time series analysis (>30 hours)
 
