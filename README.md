@@ -6,14 +6,14 @@ This repo is for tracking personal projects, coursework, and readings.
 - **Time investment:** 
     - Log 440 study and project hours in data science and SWE from February to December
 - **To ship:**
-- Make 10 Medium posts (~100 hours)
-- Build 2 products (~80 hours)
-    - Build a consumer product with Python, host with flask (~40 hrs)
-- Build 5 side projects (~100 hours)
+    - Make 10 Medium posts (~100 hours)
+    - Build 2 products (~80 hours)
+        - Build a consumer product with Python, host with flask (~40 hrs)
+    - Build 5 side projects (~100 hours)
 - **To learn:**
-- Learn Python SWE (>100 hrs)
-- Learn natural language processing (>60 hours)
-- Learn basic time series analysis (>30 hours)
+    - Learn Python SWE (>100 hrs)
+    - Learn natural language processing (>60 hours)
+    - Learn basic time series analysis (>30 hours)
 
 ## What I'm working on
 
