@@ -34,14 +34,15 @@ Learning:
 Projects:
 - Analyzing cryptocurrency exchange volume
 
-## Thing I'd like to work on
+## Thing I'd like to get to
 
 - Mining Massive Datasets (Stanford online)
 - [Bloomberg Foundations of Machine Learning](https://bloomberg.github.io/foml/#home)
-- Stanford's CS231
+- Stanford's CS 224: Deep Learning for Natural Language Processing
 - [Coursera Social Media Data Analytics](https://www.coursera.org/learn/social-media-data-analytics)
 - [Mining the Social Web](https://www.webpages.uidaho.edu/~stevel/504/mining-the-social-web-2nd-edition.pdf)
 - Coursera Deep Learning Specialization
+- Deep Learning Book
 
 ## Things I've completed
 
