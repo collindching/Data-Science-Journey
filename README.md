@@ -13,7 +13,7 @@ I'm track time in a spreadsheet to do an audit at the end of the year.
 - **Time investment:** 
     - Log 440 study and project hours in data science and SWE from February to December
 - **To ship:**
-    - Make 12 Medium posts (~120 hours)
+    - Publish 20 Medium posts
     - Build 2 products (~80 hours)
         - Build a consumer product with Python, host with flask (~40 hrs)
     - Build 5 side projects (~100 hours)
