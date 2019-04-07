@@ -25,14 +25,15 @@ I'm track time in a spreadsheet to do an audit at the end of the year.
 ## What I'm working on
 
 Learning:
-- **Hands-On ML with Scikit-Learn & Tensorflow**
-- **[fast.ai](http://www.fast.ai/)**
+- **Hands-On ML with Scikit-Learn & Tensorflow** *
+- **[fast.ai](https://course.fast.ai/)** *
 - [Full Stack Python](https://www.fullstackpython.com/table-of-contents.html)
 - Statistical Inference (Casella and Berger)
 - SQLZoo
 
 Projects:
 - Analyzing cryptocurrency exchange volume
+- Modcloth project
 
 ## Thing I'd like to get to
 
