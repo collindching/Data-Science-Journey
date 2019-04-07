@@ -27,7 +27,7 @@ I'm track time in a spreadsheet to do an audit at the end of the year.
 Learning:
 - **Hands-On ML with Scikit-Learn & Tensorflow**
 - **[fast.ai](http://www.fast.ai/)**
-- **[Full Stack Python](https://www.fullstackpython.com/table-of-contents.html)**
+- [Full Stack Python](https://www.fullstackpython.com/table-of-contents.html)
 - Statistical Inference (Casella and Berger)
 - SQLZoo
 
