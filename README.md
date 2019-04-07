@@ -35,6 +35,8 @@ Projects:
 - Analyzing cryptocurrency exchange volume
 - Modcloth project
 
+* top priorities
+
 ## Thing I'd like to get to
 
 - Mining Massive Datasets (Stanford online)
