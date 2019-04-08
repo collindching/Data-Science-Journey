@@ -35,7 +35,7 @@ Projects:
 - Analyzing cryptocurrency exchange volume
 - Modcloth project
 
-* top priorities
+\* indicates top priorities
 
 ## Thing I'd like to get to
 
