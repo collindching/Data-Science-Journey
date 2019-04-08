@@ -11,11 +11,11 @@ Hoping to grow a lot this year in my data skills. My biggest hurdles will be mai
 I'm track time in a spreadsheet to do an audit at the end of the year.
 
 - **Time investment:** 
-    - Log 440 study and project hours in data science and SWE from February to December
+    - Log 500 study and project hours in data science and SWE from February to December
 - **To ship:**
     - Publish 20 Medium posts
     - Build 2 products (~80 hours)
-        - Build a consumer product with Python, host with flask (~40 hrs)
+        1. Build a consumer product with Python, host with flask (~40 hrs)
     - Build 5 side projects (~100 hours)
 - **To learn:**
     - Learn Python for SWE (>100 hrs)
