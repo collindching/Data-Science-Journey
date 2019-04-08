@@ -2,7 +2,7 @@
 
 This repo is for tracking personal projects, coursework, and readings.
 
-My current learning interests: building machine learning applications, learning software engineering in Python, and natural language processing. 
+My current learning interests: production machine learning applications, software engineering in Python, and natural language processing. 
 
 ### Personal goals for 2019: 
 
@@ -15,7 +15,7 @@ I'm track time in a spreadsheet to do an audit at the end of the year.
 - **To ship:**
     - Publish 20 Medium posts
     - Build 2 products (~80 hours)
-        1. Build a consumer product with Python, host with flask (~40 hrs)
+        1. Build a consumer product with Python, host with Flask (~40 hrs)
     - Build 5 side projects (~100 hours)
 - **To learn:**
     - Learn Python for SWE (>100 hrs)
