@@ -8,7 +8,7 @@ My current learning interests: production machine learning applications, softwar
 
 Hoping to grow a lot this year in my data skills. My biggest hurdles will be maintaining a study routine alongside full-time work and managing fatigue. 
 
-I'm track time in a spreadsheet to do an audit at the end of the year.
+I'm tracking time in a spreadsheet to do an audit at the end of the year.
 
 - **Time investment:** 
     - Log 500 study and project hours in data science and SWE from February to December
