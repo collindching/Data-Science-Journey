@@ -2,7 +2,7 @@
 
 This repo is for tracking personal projects, coursework, and readings.
 
-My current learning interests: production machine learning applications, software engineering in Python, and natural language processing. 
+My current learning interests: production machine learning applications (data science), software engineering in Python (coding), and natural language processing (specialization). 
 
 ### Personal goals for 2019: 
 
