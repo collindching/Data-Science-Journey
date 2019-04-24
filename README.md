@@ -21,8 +21,10 @@ I'm tracking time in a spreadsheet to do an audit at the end of the year.
     - Build 5 side projects (~100 hours)
 - **To learn:**
     - Learn Python for SWE (>100 hrs)
-        - Finish 100 LeetCode questions
-        - Read through Hitchhiker's Guide to Python
+        - 100 LeetCode questions
+        - Think Python
+        - Hitchhiker's Guide to Python
+        - Effective Python
     - Learn natural language processing (>60 hours)
     - Learn basic time series analysis (>30 hours)
 
