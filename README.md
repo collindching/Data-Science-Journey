@@ -4,6 +4,8 @@ This repo is for tracking personal projects, coursework, and readings.
 
 My current learning interests: production machine learning applications (data science), software engineering in Python (coding), and natural language processing (specialization). 
 
+Helpful resources: http://www.datasciguide.com/
+
 ### Personal goals for 2019: 
 
 Hoping to grow a lot this year in my data skills. My biggest hurdles will be maintaining a study routine alongside full-time work and managing fatigue. 
@@ -19,6 +21,8 @@ I'm tracking time in a spreadsheet to do an audit at the end of the year.
     - Build 5 side projects (~100 hours)
 - **To learn:**
     - Learn Python for SWE (>100 hrs)
+        - Finish 100 LeetCode questions
+        - Read through Hitchhiker's Guide to Python
     - Learn natural language processing (>60 hours)
     - Learn basic time series analysis (>30 hours)
 
