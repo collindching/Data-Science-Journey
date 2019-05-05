@@ -27,6 +27,12 @@ I'm tracking time in a spreadsheet to do an audit at the end of the year.
         - Effective Python
     - Learn natural language processing (>60 hours)
     - Learn basic time series analysis (>30 hours)
+    
+### Time spent:
+- February: 4h23m
+- March: 16h6m
+- April: 10h52m
+- May: goal is 40 hours
 
 ## What I'm working on
 
