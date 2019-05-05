@@ -34,6 +34,8 @@ I'm tracking time in a spreadsheet to do an audit at the end of the year.
 - April: 10h52m
 - May: goal is 40 hours
 
+Total time spent: 31h21m
+
 ## What I'm working on
 
 Learning:
