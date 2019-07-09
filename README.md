@@ -8,33 +8,22 @@ Helpful resources: http://www.datasciguide.com/
 
 ### Personal goals for 2019: 
 
-Hoping to grow a lot this year in my data skills. My biggest hurdles will be maintaining a study routine alongside full-time work and managing fatigue. 
+Hoping to grow a lot this year in my data skills, and land a job in data sciene by December.
 
-I'm tracking time in a spreadsheet to do an audit at the end of the year.
-
-- **Time investment:** 
-    - Log 500 study and project hours in data science and SWE from February to December
 - **To ship:**
     - Publish 20 Medium posts
     - Build 2 products (~80 hours)
         1. Build a consumer product with Python, host with Flask (~40 hrs)
     - Build 5 side projects (~100 hours)
 - **To learn:**
+    - Learn natural language processing (>60 hours)
+    - Learn basic time series analysis (>30 hours)
     - Learn Python for SWE (>100 hrs)
         - 100 LeetCode questions
         - Think Python
         - Hitchhiker's Guide to Python
         - Effective Python
-    - Learn natural language processing (>60 hours)
-    - Learn basic time series analysis (>30 hours)
     
-### Time spent:
-- February: 4h23m
-- March: 16h6m
-- April: 10h52m
-- May: goal is 40 hours
-
-Total time spent: 31h21m
 
 ## What I'm working on
 
@@ -46,8 +35,7 @@ Learning:
 - SQLZoo
 
 Projects:
-- Analyzing cryptocurrency exchange volume
-- Modcloth project
+- Churn modeling
 
 \* indicates top priorities
 
@@ -69,4 +57,5 @@ Projects:
 - [Trash classifier](https://github.com/collindching/Waste-Sorter), March 2019
 
 #### Coursework
-- [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning), Dec 2018
+- [Machine Learning (Coursera)](https://www.coursera.org/learn/machine-learning), Dec 2018
+- Complete SQL Bootcamp (Udemy)
