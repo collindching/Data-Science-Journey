@@ -1,8 +1,6 @@
 # My Learning Progress
 
-This repo is for tracking personal projects, coursework, and readings.
-
-My current learning interests: productionizing machine learning applications, building and using databases, software engineering, and natural language processing. 
+This is everything I've used so far in my data science journey. 
 
 Helpful resources: http://www.datasciguide.com/ and [Full Stack Python](https://www.fullstackpython.com/table-of-contents.html)
 
