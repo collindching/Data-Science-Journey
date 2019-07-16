@@ -20,14 +20,22 @@ Helpful resources: http://www.datasciguide.com/ and [Full Stack Python](https://
 
 ## What I'm working on
 
-Learning resources:
+Learning materials:
 - **Hands-On ML with Scikit-Learn & Tensorflow** (To quickly learn Python machine learning)
 - **The Business Intelligence Analyst Course 2019** (To learn SQL and Tableau, data analyst skills)
 - **Learn Python the Hard Way** (To learn Python programming)
+- ~~[Machine Learning (Coursera)](https://www.coursera.org/learn/machine-learning)~~, completed Dec 2018
+- ~~Complete SQL Bootcamp (Udemy)~~, completed Sept 2017
+
+Projects
+- ~~[Home Credit default risk](https://www.kaggle.com/c/home-credit-default-risk)~~, completed Nov 2018
+- ~~[San Francisco housing visualizations](https://github.com/collindching/sf_housing)~~, completed Feb 2019
+- ~~[Trash classifier](https://github.com/collindching/Waste-Sorter)~~, completed March 2019
+- ~~[Olist customer churn](https://github.com/collindching/Olist-Customer-Churn)~~, July 2019
 
 ## Thing I'd like to get to
 
-- **[fast.ai](https://course.fast.ai/)** *
+- **[fast.ai](https://course.fast.ai/)** 
 - SqlZoo
 - Statistical Inference (Casella and Berger)
 - Mining Massive Datasets (Stanford online)
@@ -38,14 +46,3 @@ Learning resources:
 - Coursera Deep Learning Specialization
 - Deep Learning Book
 
-## Things I've completed
-
-#### Projects
-- [Home Credit default risk](https://www.kaggle.com/c/home-credit-default-risk), Nov 2018
-- [San Francisco housing visualizations](https://github.com/collindching/sf_housing), Feb 2019
-- [Trash classifier](https://github.com/collindching/Waste-Sorter), March 2019
-- [Olist customer churn](https://github.com/collindching/Olist-Customer-Churn), July 2019
-
-#### Coursework
-- [Machine Learning (Coursera)](https://www.coursera.org/learn/machine-learning), Dec 2018
-- Complete SQL Bootcamp (Udemy)
