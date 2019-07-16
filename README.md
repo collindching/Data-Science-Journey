@@ -4,14 +4,14 @@ This is everything I've used so far in my data science journey.
 
 Helpful resources: http://www.datasciguide.com/ and [Full Stack Python](https://www.fullstackpython.com/table-of-contents.html)
 
-### Personal goals for 2019: 
+### 2019 goals: 
 
-- **To ship:**
+- **Ship**
     - Publish 20 Medium posts
     - Build 2 products (~80 hours)
         1. Build a consumer product with Python, host with Flask (~40 hrs)
     - Build 5 side projects (~100 hours)
-- **To learn:**
+- **Learn**
     - Learn natural language processing (>60 hours)
     - Learn basic time series analysis (>30 hours)
     - Learn Python for SWE (>100 hrs)    
