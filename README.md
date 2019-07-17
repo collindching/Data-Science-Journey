@@ -19,9 +19,11 @@ Helpful resources: http://www.datasciguide.com/ and [Full Stack Python](https://
 ## What I'm working on
 
 Learning materials:
-- **Hands-On ML with Scikit-Learn & Tensorflow** (To quickly learn Python machine learning)
 - **The Business Intelligence Analyst Course 2019** (To learn SQL and Tableau, data analyst skills)
+- **Hands-On ML with Scikit-Learn & Tensorflow** (To learn Python machine learning in practice)
 - **Learn Python the Hard Way** (To learn Python programming)
+- ~~[TutorialsPoint Python Tutorial](https://www.tutorialspoint.com/python/)~~, completed July 2019
+- ~~[TutorialsPoint SQL Tutorial](https://www.tutorialspoint.com/sql/)~~, completed June 2019
 - ~~[Machine Learning (Coursera)](https://www.coursera.org/learn/machine-learning)~~, completed Dec 2018
 - ~~Complete SQL Bootcamp (Udemy)~~, completed Sept 2017
 
