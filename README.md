@@ -1,20 +1,20 @@
-# Self-study materials
+# Introduction
 
-Projects and resources I've used to teach myself data science.
+These are all the resources and projects I'm working on and have completed to teach myself data science.
 
 Helpful resources: http://www.datasciguide.com/ and [Full Stack Python](https://www.fullstackpython.com/table-of-contents.html)
 
-### 2019 goals: 
+### My goals for 2019
 
 - **Ship**
-    - Publish 20 Medium posts
-    - Build 2 products (~80 hours)
-        1. Build a consumer product with Python, host with Flask (~40 hrs)
-    - Build 5 side projects (~100 hours)
-- **Learn**
-    - Learn natural language processing (>60 hours)
-    - Learn basic time series analysis (>30 hours)
-    - Learn Python for SWE (>100 hrs)    
+    - Publish 10 Medium posts
+    - Build 1 data product (Flask)
+    - Build 5 side projects
+        - One in NLP
+        - One using time series
+        - One related to music 
+        - One related to food
+        - One related to healthcare
 
 ## What I'm working on
 
