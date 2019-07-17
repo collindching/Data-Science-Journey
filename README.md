@@ -28,10 +28,10 @@ Learning materials:
 - ~~[Complete SQL Bootcamp (Udemy)](https://www.udemy.com/the-complete-sql-bootcamp/)~~, completed Sept 2017
 
 Projects
-- ~~[Home Credit default risk](https://www.kaggle.com/c/home-credit-default-risk)~~, completed Nov 2018
-- ~~[San Francisco housing visualizations](https://github.com/collindching/sf_housing)~~, completed Feb 2019
-- ~~[Trash classifier](https://github.com/collindching/Waste-Sorter)~~, completed March 2019
 - ~~[Olist customer churn](https://github.com/collindching/Olist-Customer-Churn)~~, July 2019
+- ~~[Trash classifier](https://github.com/collindching/Waste-Sorter)~~, completed March 2019
+- ~~[San Francisco housing visualizations](https://github.com/collindching/sf_housing)~~, completed Feb 2019
+- ~~[Home Credit default risk](https://www.kaggle.com/c/home-credit-default-risk)~~, completed Nov 2018
 
 ## Thing I'd like to get to
 
