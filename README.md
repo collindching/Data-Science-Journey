@@ -25,7 +25,7 @@ Learning materials:
 - ~~[TutorialsPoint Python Tutorial](https://www.tutorialspoint.com/python/)~~, completed July 2019
 - ~~[TutorialsPoint SQL Tutorial](https://www.tutorialspoint.com/sql/)~~, completed June 2019
 - ~~[Machine Learning (Coursera)](https://www.coursera.org/learn/machine-learning)~~, completed Dec 2018
-- ~~Complete SQL Bootcamp (Udemy)~~, completed Sept 2017
+- ~~[Complete SQL Bootcamp (Udemy)](https://www.udemy.com/the-complete-sql-bootcamp/)~~, completed Sept 2017
 
 Projects
 - ~~[Home Credit default risk](https://www.kaggle.com/c/home-credit-default-risk)~~, completed Nov 2018
