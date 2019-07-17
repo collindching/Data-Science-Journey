@@ -1,6 +1,6 @@
-# My Learning Progress
+# Self-study materials
 
-This is everything I've used so far in my data science journey. 
+Projects and resources I've used to teach myself data science.
 
 Helpful resources: http://www.datasciguide.com/ and [Full Stack Python](https://www.fullstackpython.com/table-of-contents.html)
 
@@ -28,7 +28,7 @@ Learning materials:
 - ~~[Complete SQL Bootcamp (Udemy)](https://www.udemy.com/the-complete-sql-bootcamp/)~~, completed Sept 2017
 
 Projects
-- ~~[Olist customer churn](https://github.com/collindching/Olist-Customer-Churn)~~, July 2019
+- ~~[Olist customer churn](https://github.com/collindching/Olist-Customer-Churn)~~, completed July 2019
 - ~~[Trash classifier](https://github.com/collindching/Waste-Sorter)~~, completed March 2019
 - ~~[San Francisco housing visualizations](https://github.com/collindching/sf_housing)~~, completed Feb 2019
 - ~~[Home Credit default risk](https://www.kaggle.com/c/home-credit-default-risk)~~, completed Nov 2018
