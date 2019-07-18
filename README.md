@@ -35,6 +35,10 @@ Projects
 
 ## Thing I'd like to get to
 
+- Data Visualization and Communication with Tableau
+- Tableau 10 Advanced Training
+- Managing Big Data with MySQL
+- Introduction to BigData with Apache Spark
 - **[fast.ai](https://course.fast.ai/)** 
 - SqlZoo
 - Statistical Inference (Casella and Berger)
