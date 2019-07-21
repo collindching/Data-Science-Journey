@@ -2,7 +2,8 @@
 
 These are all the resources and projects I'm working on and have completed to teach myself data science.
 
-Helpful resources: http://www.datasciguide.com/ and [Full Stack Python](https://www.fullstackpython.com/table-of-contents.html)
+* [On self-education](https://www.nateliason.com/blog/self-education)
+* [On motivation](https://www.nateliason.com/blog/motivation)
 
 ### My goals for 2019
 
