@@ -19,13 +19,13 @@ Helpful resources: http://www.datasciguide.com/ and [Full Stack Python](https://
 ## What I'm working on
 
 Learning materials:
-- **The Business Intelligence Analyst Course 2019** (To learn SQL and Tableau, data analyst skills)
-- **Hands-On ML with Scikit-Learn & Tensorflow** (To learn Python machine learning in practice)
-- **Learn Python the Hard Way** (To learn Python programming)
+- **The Business Intelligence Analyst Course 2019** (SQL and Tableau, data analyst skills)
+- **Hands-On ML with Scikit-Learn & Tensorflow** (Applied Python machine learning)
+- **Learn Python the Hard Way** (Python programming)
 - ~~[TutorialsPoint Python Tutorial](https://www.tutorialspoint.com/python/)~~, completed July 2019
 - ~~[TutorialsPoint SQL Tutorial](https://www.tutorialspoint.com/sql/)~~, completed June 2019
-- ~~[Machine Learning (Coursera)](https://www.coursera.org/learn/machine-learning)~~, completed Dec 2018
-- ~~[Complete SQL Bootcamp (Udemy)](https://www.udemy.com/the-complete-sql-bootcamp/)~~, completed Sept 2017
+- ~~[Machine Learning (Coursera)](https://www.coursera.org/learn/machine-learning)(ML theory)~~, completed Dec 2018
+- ~~[Complete SQL Bootcamp (Udemy)](https://www.udemy.com/the-complete-sql-bootcamp/)(Introduction to SQL)~~, completed Sept 2017
 
 Projects
 - ~~[Olist customer churn](https://github.com/collindching/Olist-Customer-Churn)~~, completed July 2019
