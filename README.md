@@ -24,8 +24,8 @@ Learning materials:
 - **Learn Python the Hard Way** (Python programming)
 - ~~[TutorialsPoint Python Tutorial](https://www.tutorialspoint.com/python/)~~, completed July 2019
 - ~~[TutorialsPoint SQL Tutorial](https://www.tutorialspoint.com/sql/)~~, completed June 2019
-- ~~[Machine Learning (Coursera)](https://www.coursera.org/learn/machine-learning)(ML theory)~~, completed Dec 2018
-- ~~[Complete SQL Bootcamp (Udemy)](https://www.udemy.com/the-complete-sql-bootcamp/)(Introduction to SQL)~~, completed Sept 2017
+- ~~[Machine Learning (Coursera)](https://www.coursera.org/learn/machine-learning) (ML theory)~~, completed Dec 2018
+- ~~[Complete SQL Bootcamp (Udemy)](https://www.udemy.com/the-complete-sql-bootcamp/) (Introduction to SQL)~~, completed Sept 2017
 
 Projects
 - ~~[Olist customer churn](https://github.com/collindching/Olist-Customer-Churn)~~, completed July 2019
