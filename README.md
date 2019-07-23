@@ -3,6 +3,7 @@
 These are all the resources and projects I'm working on and have completed to teach myself data science.
 
 * [On self-education](https://www.nateliason.com/blog/self-education)
+* [On building a learning curriculum](https://medium.com/@rchang/how-i-build-learning-projects-part-i-54dbaad68961)
 * [On motivation](https://www.nateliason.com/blog/motivation)
 
 ### My goals for 2019
