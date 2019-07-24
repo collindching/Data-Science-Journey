@@ -23,7 +23,7 @@ Some inspiration (stolen from [Robert Chang](https://github.com/robert8138/deep-
 ## What I'm working on
 
 Learning materials:
-- **The Business Intelligence Analyst Course 2019** (SQL and Tableau, data analyst skills)
+- **The Business Intelligence Analyst Course 2019** (select SQL and Tableau lectures only, data analyst skills)
 - **Hands-On ML with Scikit-Learn & Tensorflow** (Applied Python machine learning)
 - **Learn Python the Hard Way** (Python programming)
 - ~~[TutorialsPoint Python Tutorial](https://www.tutorialspoint.com/python/)~~, completed July 2019
