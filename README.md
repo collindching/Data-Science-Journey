@@ -7,25 +7,29 @@ Some inspiration (stolen from [Robert Chang](https://github.com/robert8138/deep-
 * [On self-education](https://www.nateliason.com/blog/self-education)
 * [On building a learning curriculum](https://medium.com/@rchang/how-i-build-learning-projects-part-i-54dbaad68961)
 * [On motivation](https://www.nateliason.com/blog/motivation)
+* [How to learn ML, the self-starter way](https://elitedatascience.com/learn-machine-learning#step-0)
 
 ### My goals for 2019
 
 - **Ship**
-    - Publish 10 Medium posts
-    - Build 1 data product (Flask)
+    - Publish ~~10~~ 7 Medium posts
     - Build 5 side projects
-        - One in NLP
-        - One using time series
-        - One related to music 
-        - One related to food
+        - One involving dashboarding
+        - One involving NLP
+        - One involving time series
+        - One relating to real estate
+        - One relating to music 
+        - One related to events
         - One related to healthcare
+    - Build and deploy 1 data product (Flask)
+
 
 ## What I'm working on
 
 Learning materials:
-- **The Business Intelligence Analyst Course 2019** (select SQL and Tableau lectures only, data analyst skills)
-- **Hands-On ML with Scikit-Learn & Tensorflow** (Applied Python machine learning)
 - **Learn Python the Hard Way** (Python programming)
+- **Hands-On ML with Scikit-Learn & Tensorflow** (applied Python machine learning, 2 chapters/wk)
+- **The Business Intelligence Analyst Course 2019** (select SQL and Tableau lectures only, data analyst skills)
 - ~~[TutorialsPoint Python Tutorial](https://www.tutorialspoint.com/python/)~~, completed July 2019
 - ~~[TutorialsPoint SQL Tutorial](https://www.tutorialspoint.com/sql/)~~, completed June 2019
 - ~~[Machine Learning (Coursera)](https://www.coursera.org/learn/machine-learning) (ML theory)~~, completed Dec 2018
