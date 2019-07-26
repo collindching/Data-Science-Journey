@@ -21,7 +21,7 @@ Some inspiration (stolen from [Robert Chang](https://github.com/robert8138/deep-
         - One relating to music 
         - One related to events
         - One related to healthcare
-    - Build and deploy 1 data product (Flask)
+    - Build and deploy 1 data product with Flask
 
 
 ## What I'm working on
