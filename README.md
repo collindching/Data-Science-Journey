@@ -1,4 +1,4 @@
-These are all the resources and projects I'm working on and have completed to teach myself data science.
+These are all the resources and projects I'm working on and have completed to teach myself data science. Remember: you can't get to everything immediately. Commit to a couple resources, stay focused, and keep learning. 
 
 Some inspiration (stolen from [Robert Chang](https://github.com/robert8138/deep-learning-deliberate-practice)):
 
