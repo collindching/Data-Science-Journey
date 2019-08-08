@@ -29,7 +29,6 @@ Some inspiration (stolen from [Robert Chang](https://github.com/robert8138/deep-
 Learning materials:
 - **Learn Python the Hard Way** (Python programming)
 - **Hands-On ML with Scikit-Learn & Tensorflow** (applied Python machine learning, 2 chapters/wk)
-- **The Business Intelligence Analyst Course 2019** (select SQL and Tableau lectures only, data analyst skills)
 - ~~[TutorialsPoint Python Tutorial](https://www.tutorialspoint.com/python/)~~, completed July 2019
 - ~~[TutorialsPoint SQL Tutorial](https://www.tutorialspoint.com/sql/)~~, completed June 2019
 - ~~[Machine Learning (Coursera)](https://www.coursera.org/learn/machine-learning) (ML theory)~~, completed Dec 2018
@@ -43,12 +42,13 @@ Projects
 
 ## Thing I'd like to get to
 
+- The Business Intelligence Analyst Course 2019 (select SQL and Tableau lectures only, data analyst skills)
 - Data Visualization and Communication with Tableau
 - Tableau 10 Advanced Training
 - Managing Big Data with MySQL
 - Introduction to BigData with Apache Spark
-- **[fast.ai](https://course.fast.ai/)** 
 - SqlZoo
+- **[fast.ai](https://course.fast.ai/)** 
 - Statistical Inference (Casella and Berger)
 - Mining Massive Datasets (Stanford online)
 - [Bloomberg Foundations of Machine Learning](https://bloomberg.github.io/foml/#home)
