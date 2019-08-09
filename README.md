@@ -8,7 +8,7 @@ Some inspiration (stolen from [Robert Chang](https://github.com/robert8138/deep-
 * [On building a learning curriculum](https://medium.com/@rchang/how-i-build-learning-projects-part-i-54dbaad68961)
 * [On motivation](https://www.nateliason.com/blog/motivation)
 * [How to learn ML, the self-starter way](https://elitedatascience.com/learn-machine-learning#step-0)
-* [Data Science Career Map (tips on job hunting and being effective)](https://datasciencecareermap.com/)
+* [Data Science Career Map (tips on job hunting and being effective on the job hunt)](https://datasciencecareermap.com/)
 
 ### My goals for 2019
 
