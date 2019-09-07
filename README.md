@@ -36,7 +36,7 @@ Learning materials:
 - ~~[Complete SQL Bootcamp (Udemy)](https://www.udemy.com/the-complete-sql-bootcamp/) (Introduction to SQL)~~, completed Sept 2017
 
 Projects
-- [Box office revenue predictions](https://github.com/collindching/Mini-Projects/tree/master/Box%20Office%20Revenue%20Prediction)
+- ~~[Box office revenue predictions](https://github.com/collindching/Mini-Projects/tree/master/Box%20Office%20Revenue%20Prediction)~~, completed September 2019
 - ~~[Olist customer churn](https://github.com/collindching/Olist-Customer-Churn)~~, completed July 2019
 - ~~[Trash classifier](https://github.com/collindching/Waste-Sorter)~~, completed March 2019
 - ~~[San Francisco housing visualizations](https://github.com/collindching/sf_housing)~~, completed Feb 2019
@@ -58,5 +58,4 @@ Projects
 - Coursera Deep Learning Specialization
 - Data Science From Scratch
 - Deep Learning Book
-
-
+- Python for Data Analysis
