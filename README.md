@@ -13,17 +13,9 @@ Some inspiration (found this quote through [Robert Chang](https://github.com/rob
 ### My goals for 2019
 
 - **Ship**
-    - Publish ~~10~~ 7 Medium posts
-    - Build 5 side projects
-        - One involving dashboarding
-        - One involving NLP
-        - One involving time series
-        - One relating to real estate
-        - One relating to music 
-        - One related to events
-        - One related to healthcare
+    - Publish 10 Medium posts
+    - Build 3 side projects
     - Build and deploy 1 data product with Flask
-
 
 ## What I'm working on
 
