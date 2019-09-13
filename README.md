@@ -20,8 +20,9 @@ Some inspiration (found this quote through [Robert Chang](https://github.com/rob
 ## What I'm working on
 
 Learning materials:
-- **Learn Python the Hard Way** (Python programming)
-- **Hands-On ML with Scikit-Learn & Tensorflow** (applied Python machine learning, 2 chapters/wk)
+- **The Business Intelligence Analyst Course 2019**
+- **Hands-On ML with Scikit-Learn & Tensorflow**
+- ~~[Learn Python the Hard Way](https://github.com/collindching/Learn-Python-the-Hard-Way)~~, September 2019
 - ~~[TutorialsPoint Python Tutorial](https://www.tutorialspoint.com/python/)~~, completed July 2019
 - ~~[TutorialsPoint SQL Tutorial](https://www.tutorialspoint.com/sql/)~~, completed June 2019
 - ~~[Machine Learning (Coursera)](https://www.coursera.org/learn/machine-learning) (ML theory)~~, completed Dec 2018
@@ -36,7 +37,6 @@ Projects
 
 ## Thing I'd like to get to
 
-- The Business Intelligence Analyst Course 2019 (select SQL and Tableau lectures only, data analyst skills)
 - Data Visualization and Communication with Tableau
 - Tableau 10 Advanced Training
 - Managing Big Data with MySQL
