@@ -4,18 +4,21 @@ Some inspiration (found this quote through [Robert Chang](https://github.com/rob
 
 > Every Saturday, you will have a choice between staying at home and reading research papers/implementing algorithms, vs. watching TV. If you spend all Saturday working, there probably won't be any short-term reward, and your current boss won't even know or say "nice work." Also, after that Saturday of hard work, you're not actually that much better at machine learning. But here's the secret: If you do this not just for one weekend, but instead study consistently for a year, then you will become very good. -Andrew Ng
 
-* [On self-education](https://www.nateliason.com/blog/self-education)
-* [On building a learning curriculum](https://medium.com/@rchang/how-i-build-learning-projects-part-i-54dbaad68961)
-* [On motivation](https://www.nateliason.com/blog/motivation)
-* [How to learn ML, the self-starter way](https://elitedatascience.com/learn-machine-learning#step-0)
-* [Data Science Career Map (tips on job hunting and being effective on the job hunt)](https://datasciencecareermap.com/)
+- [On self-education](https://www.nateliason.com/blog/self-education)
+- [On building a learning curriculum](https://medium.com/@rchang/how-i-build-learning-projects-part-i-54dbaad68961)
+- [On motivation](https://www.nateliason.com/blog/motivation)
+- [How to learn ML, the self-starter way](https://elitedatascience.com/learn-machine-learning#step-0)
+- [Data Science Career Map (tips on job hunting and being effective on the job hunt)](https://datasciencecareermap.com/)
 
-### My goals for 2019
+### My shipping goals for 2019
+- Publish 10 Medium posts
+- Build 3 side projects
+- Build and deploy 1 data product with Flask
 
-- **Ship**
-    - Publish 10 Medium posts
-    - Build 3 side projects
-    - Build and deploy 1 data product with Flask
+### Cutting edge research in data
+- [Facebook Research](https://research.fb.com)
+- [Baidu Research](http://research.baidu.com/Research_Areas/index-view?id=55)
+- [OpenAI](https://openai.com/progress/)
 
 ## What I'm working on
 
@@ -35,7 +38,7 @@ Projects
 - ~~[San Francisco housing visualizations](https://github.com/collindching/sf_housing)~~, completed Feb 2019
 - ~~[Home Credit default risk](https://www.kaggle.com/c/home-credit-default-risk)~~, completed Nov 2018
 
-## Thing I'd like to get to
+## Next up
 
 - Data Visualization and Communication with Tableau
 - Tableau 10 Advanced Training
