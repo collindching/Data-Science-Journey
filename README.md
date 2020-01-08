@@ -1,10 +1,30 @@
 # My 2020 learning journey
 
-Resources and projects I'm working on in my data science journey.
+I'm currently interested in inferential statistics, generalized linear models, and causal inference.
 
-Some inspiration (found this quote through [Robert Chang](https://github.com/robert8138/deep-learning-deliberate-practice)):
+Information that I'm consuming to that end: _Statistical Inference_ (Casella and Berger), _An Introduction to Generalized Linear Models_ (Dobson), and _The Causal Inference Book_ (Hernan and Robins).
 
-> Every Saturday, you will have a choice between staying at home and reading research papers/implementing algorithms, vs. watching TV. If you spend all Saturday working, there probably won't be any short-term reward, and your current boss won't even know or say "nice work." Also, after that Saturday of hard work, you're not actually that much better at machine learning. But here's the secret: If you do this not just for one weekend, but instead study consistently for a year, then you will become very good. -Andrew Ng
+I also want to strenghten my SQL and data visualization skills significantly. These are key skills for data analysts. To that end, I'll be working through SQLZoo.net, _The Business Intelligence Analyst Course 2019_, and _Data Visualization and Communication with Tableau_.
+
+Lastly, because it's basically a biblical text in the data science and ML community, I'll also be working through _Hands-On ML with Scikit-Learn & Tensorflow_.
+
+### Measurable goals for 2020
+
+This year, I want to focus on deepening my knowledge in applied statistics, becoming a data scientist more generally, and being a better citizen in my local and global community. To that end, here are my goals for 2020. 
+
+- [ ] Publish 50 blog posts
+- [ ] Publish 6 GitHub projects
+- [ ] Read 24 books
+- [ ] Complete 4 online courses
+- [ ] Learn Chinese at a high-school reading and speaking level
+- [ ] Build a personal blog & portfolio website
+
+I hope that by the end of 2020, I can accomplish nearly all (80%) of theese goals. To bake these goals into my lifestyle, I'm planning on having **daily process goals** of learning something new for 30 minutes, writing for 30 minutes, and reading for 30 miutes each day.
+
+
+### Links on learning
+
+Useful links to review for learning advice.
 
 - [Motivation](https://www.nateliason.com/blog/motivation)
 - Self teaching
@@ -14,34 +34,31 @@ Some inspiration (found this quote through [Robert Chang](https://github.com/rob
 - Job hunting
     - [Data Science Career Map](https://datasciencecareermap.com/)
 
-#### Measurable goals for 2020
-- [ ] Publish 50 blog posts
-- [ ] Publish 6 GitHub projects
-- [ ] Read 24 books
-- [ ] Complete 4 online courses
-- [ ] Learn Chinese at a high-school reading and speaking level
-- [ ] Build a personal blog & portfolio website
+### Research papers
 
-#### Research papers
+A repository of place to find cutteng-edge research.
+
 - [Facebook AI](https://ai.facebook.com/research)
 - [Facebook Research](https://research.fb.com)
 - [Baidu Research](http://research.baidu.com/Research_Areas/index-view?id=55)
 - [OpenAI](https://openai.com/progress/)
 
-#### Current work
 
-- SQLZoo.net
-- Hands-On ML with Scikit-Learn & Tensorflow
-- The Business Intelligence Analyst Course 2019
-- Data Visualization and Communication with Tableau
+### Achievements
 
-#### Work log
+First of all, I want to pat myself on the back for getting my first data science job as a Senior Data Analyst on January 6th.
+
+Blogs
+| Post | Date started | Date completed|
+| --- | --- | --- |
+| --- | --- | --- |
 
 Projects
 |Project|Date started|Date completed|
 |---|---|---|
+| Poisson regression | January 7th | -- |
 
-Coursework
+Learning Materials
 
 |Course|Date started|Date completed|
 | --- | --- | --- |
