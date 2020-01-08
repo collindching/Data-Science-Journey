@@ -15,7 +15,7 @@ This year, I want to focus on deepening my knowledge in applied statistics, beco
 - [ ] Publish 50 good blog posts
 - [ ] Publish 6 GitHub projects
 - [ ] Read 24 books
-- [ ] Read 12 technical books
+- [ ] Read 24 technical books
 - [ ] Complete 4 online courses
 - [ ] Learn Chinese at a high-school reading and speaking level
 - [ ] Build a personal blog & portfolio website
