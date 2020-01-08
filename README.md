@@ -49,14 +49,16 @@ A repository of place to find cutteng-edge research.
 First of all, I want to pat myself on the back for getting my first data science job as a Senior Data Analyst on January 6th.
 
 Blogs
-| Post | Date started | Date completed|
+
+|Post|Date started|Date completed|
 | --- | --- | --- |
 | --- | --- | --- |
 
 Projects
+
 |Project|Date started|Date completed|
-|---|---|---|
-| Poisson regression | January 7th | -- |
+| --- | --- | --- |
+| Poisson regression | January 7th | --- |
 
 Learning Materials
 
