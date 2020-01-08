@@ -12,9 +12,10 @@ Lastly, because it's basically a biblical text in the data science and ML commun
 
 This year, I want to focus on deepening my knowledge in applied statistics, becoming a data scientist more generally, and being a better citizen in my local and global community. To that end, here are my goals for 2020. 
 
-- [ ] Publish 50 blog posts
+- [ ] Publish 50 good blog posts
 - [ ] Publish 6 GitHub projects
 - [ ] Read 24 books
+- [ ] Read 12 technical books
 - [ ] Complete 4 online courses
 - [ ] Learn Chinese at a high-school reading and speaking level
 - [ ] Build a personal blog & portfolio website
@@ -46,21 +47,21 @@ A repository of place to find cutteng-edge research.
 
 ### Achievements
 
-First of all, I want to pat myself on the back for getting my first data science job as a Senior Data Analyst on January 6th.
+First of all, I want to pat myself on the back for getting my first data science job as a Senior Data Analyst on January 6th. This job has been several years in the making, and has been the result of a lot of persistence. This is only the beginning of a career in data science and I have a lot to learn. To have a record of personal milestones, I'm tracking my learning progress here.
 
-Blogs
+**1. Blogs**
 
 | | Post topic|Date started|Date completed|
 | --- | --- | --- | --- |
 | 1. | Merck feature selection algorithm | In 2019 | --- |
 
-Projects
+**2. Projects**
 
 | | Project|Date started|Date completed|
 | --- | --- | --- | --- |
 | 1. | Poisson regression | --- | --- |
 
-Learning Materials
+**3. Learning Materials**
 
 | | Resource|Date started|Date completed|
 | --- | --- | --- | --- |
