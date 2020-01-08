@@ -4,7 +4,7 @@ I'm currently interested in inferential statistics, generalized linear models, a
 
 Information that I'm consuming to that end: _Statistical Inference_ (Casella and Berger), _An Introduction to Generalized Linear Models_ (Dobson), and _The Causal Inference Book_ (Hernan and Robins).
 
-I also want to strenghten my SQL and data visualization skills significantly. These are key skills for data analysts. To that end, I'll be working through SQLZoo.net, _The Business Intelligence Analyst Course 2019_, and _Data Visualization and Communication with Tableau_.
+I also want to strenghten my SQL and data visualization skills since these are key skills for data analysts. To that end, I'll be working through SQLZoo.net, _The Business Intelligence Analyst Course 2019_, and _Data Visualization and Communication with Tableau_.
 
 Lastly, because it's basically a biblical text in the data science and ML community, I'll also be working through _Hands-On ML with Scikit-Learn & Tensorflow_.
 
@@ -50,21 +50,21 @@ First of all, I want to pat myself on the back for getting my first data science
 
 Blogs
 
-|Post|Date started|Date completed|
-| --- | --- | --- |
-| --- | --- | --- |
+| | Post topic|Date started|Date completed|
+| --- | --- | --- | --- |
+| 1. | Merck feature selection algorithm | In 2019 | --- |
 
 Projects
 
-|Project|Date started|Date completed|
-| --- | --- | --- |
-| Poisson regression | January 7th | --- |
+| | Project|Date started|Date completed|
+| --- | --- | --- | --- |
+| 1. | Poisson regression | --- | --- |
 
 Learning Materials
 
-|Course|Date started|Date completed|
-| --- | --- | --- |
-| The Business Intelligence Analyst Course| --- | --- |
+| | Resource|Date started|Date completed|
+| --- | --- | --- | --- |
+| 1. |The Business Intelligence Analyst Course| In 2019 | --- |
 
 ## Next up
 
