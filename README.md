@@ -4,6 +4,8 @@ I'm currently interested in inferential statistics, generalized linear models, a
 
 Information that I'm consuming to that end: _Statistical Inference_ (Casella and Berger), _An Introduction to Generalized Linear Models_ (Dobson), and _The Causal Inference Book_ (Hernan and Robins).
 
+[This book](https://christophm.github.io/interpretable-ml-book/) will be my reference for interpretable machine learning.
+
 I also want to strenghten my SQL and data visualization skills since these are key skills for data analysts. To that end, I'll be working through SQLZoo.net, _The Business Intelligence Analyst Course 2019_, and _Data Visualization and Communication with Tableau_.
 
 Lastly, because it's basically a biblical text in the data science and ML community, I'll also be working through _Hands-On ML with Scikit-Learn & Tensorflow_.
