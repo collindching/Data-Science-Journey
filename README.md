@@ -14,13 +14,12 @@ Lastly, because it's basically a biblical text in the data science and ML commun
 
 This year, I want to focus on deepening my knowledge in applied statistics, becoming a data scientist more generally, and being a better citizen in my local and global community. To that end, here are my goals for 2020. 
 
-- [ ] Publish 50 good blog posts
+- [ ] Publish 24 good blog posts
+- [ ] Read 10 technical books
 - [ ] Publish 6 GitHub projects
 - [ ] Read 24 books
-- [ ] Read 24 technical books
-- [ ] Complete 4 online courses
-- [ ] Learn Chinese at a high-school reading and speaking level
-- [ ] Build a personal blog & portfolio website
+- [ ] Build personal website for blogging
+- [ ] Learn Chinese at high-school reading/speaking proficiency
 
 In terms of data science, I want to first push towards more of a decision scientist role. In other words, on the [data science spectrum](https://towardsdatascience.com/using-the-data-science-spectrum-to-find-the-right-data-science-career-path-for-you-eff98b6c589c) with statistics on one end and computer science on the other, I want to veer more heavily towards the statistics. Once I feel comfortable with my expertise, I'll pick up more on the software engineering end. This [post](https://towardsdatascience.com/2020-is-coming-practical-tips-for-landing-your-first-data-job-13f77aab1333) is also pretty good. And [here](https://towardsdatascience.com/new-years-resolutions-for-data-scientists-43a0d3d8b4ff) are some resolutions from another practitioner. [Last resource](https://towardsdatascience.com/which-flavor-of-data-professional-are-you-5e01375584ce).
 

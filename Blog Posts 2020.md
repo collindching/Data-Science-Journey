@@ -2,8 +2,8 @@
 
 #### In progress
 
-- **Research paper:** _Merck feature selection_
 - **Statistics concepts:** _My personal notes on logistic regression_
+- **Research paper:** _Merck feature selection_
 - **Statistics concepts:** _Poisson regression_
 
 #### Coming up
