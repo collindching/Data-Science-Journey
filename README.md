@@ -68,6 +68,7 @@ First of all, I want to pat myself on the back for getting my first data science
 | | Resource|Date started|Date completed|
 | --- | --- | --- | --- |
 | 1. |The Business Intelligence Analyst Course| In 2019 | --- |
+| 2. |SQLZoo| January 28 | --- |
 
 ## Next up
 
