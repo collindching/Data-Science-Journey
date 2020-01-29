@@ -2,7 +2,7 @@
 
 #### In progress
 
-- **Statistics concepts:** _My personal notes on logistic regression_
+- **Statistics concepts:** _The data scientist's field guide to logistic regression_
 - **Research paper:** _Merck feature selection_
 - **Statistics concepts:** _Poisson regression_
 
