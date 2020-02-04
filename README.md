@@ -53,9 +53,10 @@ First of all, I want to pat myself on the back for getting my first data science
 
 **1. Blogs**
 
-| | Post topic|Date started|Date completed|
+| | Post topic|Type of blog|Date completed|
 | --- | --- | --- | --- |
-| 1. | Merck feature selection algorithm | In 2019 | --- |
+| 1. | _The data scientist's field guide to logistic regression: Intuition_ | Statistics concept | Feb 4 |
+| 2. | Merck feature selection algorithm | Modeling algorithm | --- |
 
 **2. Projects**
 
