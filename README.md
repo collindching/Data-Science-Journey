@@ -6,9 +6,9 @@ Information that I'm consuming to that end: _Statistical Inference_ (Casella and
 
 [This book](https://christophm.github.io/interpretable-ml-book/) will be my reference for interpretable machine learning.
 
-I also want to strenghten my SQL and data visualization skills since these are key skills for data analysts. To that end, I'll be working through SQLZoo.net, _The Business Intelligence Analyst Course 2019_, and _Data Visualization and Communication with Tableau_.
+I'll also be working through _Hands-On ML with Scikit-Learn & Tensorflow_.
 
-Lastly, because it's basically a biblical text in the data science and ML community, I'll also be working through _Hands-On ML with Scikit-Learn & Tensorflow_.
+I also want to strenghten my SQL and data visualization skills since these are key skills for data analysts. To that end, I'll be working through SQLZoo.net, _The Business Intelligence Analyst Course 2019_, and _Data Visualization and Communication with Tableau_.
 
 ### Measurable goals for 2020
 
@@ -49,7 +49,7 @@ A repository of place to find cutteng-edge research.
 
 ### Achievements
 
-First of all, I want to pat myself on the back for getting my first data science job as a Senior Data Analyst on January 6th. This job has been several years in the making, and has been the result of a lot of persistence. This is only the beginning of a career in data science and I have a lot to learn. To have a record of personal milestones, I'm tracking my learning progress here.
+Got my first data science job as a Senior Data Analyst on January 6th. This job has been the result of several years of perseverance and persistence, and is only the beginning of a career in data science. To have a record of personal milestones, I'm tracking my learning progress here.
 
 **1. Blogs**
 
@@ -73,7 +73,7 @@ First of all, I want to pat myself on the back for getting my first data science
 
 ## Next up
 
-- Statistical Inference (Casella and Berger)
+- Python for Data Analysis
 - Tableau 10 Advanced Training
 - Managing Big Data with MySQL
 - Introduction to BigData with Apache Spark
@@ -84,4 +84,3 @@ First of all, I want to pat myself on the back for getting my first data science
 - Coursera Deep Learning Specialization
 - Data Science From Scratch
 - Deep Learning Book
-- Python for Data Analysis
