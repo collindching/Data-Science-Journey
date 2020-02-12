@@ -49,14 +49,16 @@ A repository of place to find cutteng-edge research.
 
 ### Achievements
 
-Got my first data science job as a Senior Data Analyst on January 6th. This job has been the result of several years of perseverance and persistence, and is only the beginning of a career in data science. To have a record of personal milestones, I'm tracking my learning progress here.
+To have a record of personal milestones, I'm tracking my learning progress here.
+
+Got my first data science job as a Senior Data Analyst on January 6th. This job has been the result of several years of perseverance and persistence, and is only the beginning of a career in data science. 
 
 **1. Blogs**
 
 | | Post topic|Type of blog|Date completed|
 | --- | --- | --- | --- |
 | 1. | _The data scientist's field guide to logistic regression: Intuition_ | Statistics concept | Feb 4 |
-| 2. | Merck feature selection algorithm | Modeling algorithm | --- |
+| 2. | _Merck feature selection algorithm_ | Modeling algorithm | --- |
 
 **2. Projects**
 
