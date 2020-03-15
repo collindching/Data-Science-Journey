@@ -12,11 +12,11 @@ I also want to strenghten my SQL and data visualization skills since these are k
     - [SQLZoo](https://sqlzoo.net/)
     - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/?fbclid=IwAR2oSExw3Luz7jLSE0eIWguTBe3pHOqpbBL0i9eYKBxcFenwq4LWm484xg0)
 - **Books**
-    - [The Causal Inference Book](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2020/02/ci_hernanrobins_21feb20.pdf)
-    - Mostly Harmless Econometrics
+    - [_The Causal Inference Book_](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2020/02/ci_hernanrobins_21feb20.pdf)
+    - [_Mostly Harmless Econometrics_](https://mycourses.aalto.fi/pluginfile.php/203124/mod_resource/content/1/Angrist%20%20Pischke.pdf)
 - **Blogs**
-    - _Iteratively using Random Forests for wrapper-based feature selection_
-    - _How to use the Weibull distribution for adstock transformations_
+    - "Iteratively using Random Forests for wrapper-based feature selection"
+    - "How to use the Weibull distribution for adstock transformations"
 - **Literature** 
     - Various papers on Marketing Mix Modeling
 
@@ -56,18 +56,20 @@ A repository of place to find cutteng-edge research.
 - [Baidu Research](http://research.baidu.com/Research_Areas/index-view?id=55)
 - [OpenAI](https://openai.com/progress/)
 
-### Achievements
+### Achievement tracker
 
 To have a record of personal milestones, I'm tracking my learning progress here.
 
-Got my first data science job as a Senior Data Analyst on January 6th. This job has been the result of several years of perseverance and persistence, and is only the beginning of a career in data science. 
+January 6th: Got my first data science job as a Senior Data Analyst. This job has been the result of many years of perseverance, and it is just the start.
+
+February 24th: Started consulting at Facebook on the marketing performance decision science team.
 
 **1. Blogs**
 
 | | Post topic|Type of blog|Date completed|
 | --- | --- | --- | --- |
-| 1. | _Logistic regression theory for practitioners_ | Statistics | Feb 4 |
-| 2. | _Iteratively using random forests for wrapper-based feature selection_ | Modeling | --- |
+| 1. | "Logistic regression theory for practitioners" | Statistics | Feb 4 |
+| 2. | "Iteratively using random forests for wrapper-based feature selection" | Modeling | --- |
 
 **2. Projects**
 
@@ -80,14 +82,14 @@ Got my first data science job as a Senior Data Analyst on January 6th. This job 
 | | Resource|Date started|Date completed|
 | --- | --- | --- | --- |
 | 1. |The Business Intelligence Analyst Course| Dec 2019 | --- |
-| 2. | SQLZoo | Jan 2020 | --- |
+| 2. | [SQLZoo](sqlzoo.net) | Jan 2020 | --- |
 | 3. | [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/?fbclid=IwAR2oSExw3Luz7jLSE0eIWguTBe3pHOqpbBL0i9eYKBxcFenwq4LWm484xg0) | Mar 2020 | --- |
-| 4. | The Causal Inference Book | Mar 2020 | --- |
-| 5. | Mostly Harmless Econometrics | Mar 2020 | --- |
+| 4. | [_The Causal Inference Book_](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2020/02/ci_hernanrobins_21feb20.pdf) | Mar 2020 | --- |
+| 5. | [_Mostly Harmless Econometrics_](https://mycourses.aalto.fi/pluginfile.php/203124/mod_resource/content/1/Angrist%20%20Pischke.pdf) | Mar 2020 | --- |
 
 
 ## Next up (programming, statistics, and ML)
-- _Hands-On ML with Scikit-Learn & Tensorflow_
+- [_Hands-On ML with Scikit-Learn & Tensorflow_](https://www.lpsm.paris/pageperso/has/source/Hand-on-ML.pdf)
 - [Bloomberg Foundations of Machine Learning](https://bloomberg.github.io/foml/#home)
 
 
