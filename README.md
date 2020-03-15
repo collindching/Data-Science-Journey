@@ -74,7 +74,7 @@ Got my first data science job as a Senior Data Analyst on January 6th. This job 
 | 2. |SQLZoo| January 28 | --- |
 
 ## Next up
-
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/?fbclid=IwAR2oSExw3Luz7jLSE0eIWguTBe3pHOqpbBL0i9eYKBxcFenwq4LWm484xg0)
 - Python for Data Analysis
 - Tableau 10 Advanced Training
 - Managing Big Data with MySQL
