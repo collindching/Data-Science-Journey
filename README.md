@@ -9,7 +9,7 @@ I also want to strenghten my SQL and data visualization skills since these are k
 ### What I'm working on now
 
 - **Courses**
-    - [SQLZoo](https://sqlzoo.net/)
+    - [SQLZoo](sqlzoo.net/)
     - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/?fbclid=IwAR2oSExw3Luz7jLSE0eIWguTBe3pHOqpbBL0i9eYKBxcFenwq4LWm484xg0)
 - **Books**
     - [_The Causal Inference Book_](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2020/02/ci_hernanrobins_21feb20.pdf)
