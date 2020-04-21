@@ -6,6 +6,8 @@ Information that I'm consuming to that end: _Statistical Inference_ (Casella and
 
 I also want to strenghten my SQL and data visualization skills since these are key skills for data analysts. To that end, I'll be working through SQLZoo.net, _The Business Intelligence Analyst Course 2019_, and _Data Visualization and Communication with Tableau_.
 
+Update: In my current job as a decision scientist, I'm finding Excel to be an extremely critical component of my work. So need to invest more time. Will be using [_ExcelIsFun_](https://www.youtube.com/channel/UCkndrGoNpUDV-uia6a9jwVg). 
+
 ### What I'm working on now
 
 - **Courses**
@@ -65,6 +67,7 @@ February 24th: Started consulting at Facebook on the marketing performance decis
 | 3. | [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/?fbclid=IwAR2oSExw3Luz7jLSE0eIWguTBe3pHOqpbBL0i9eYKBxcFenwq4LWm484xg0) | Mar 2020 | --- |
 | 4. | [_The Causal Inference Book_](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2020/02/ci_hernanrobins_21feb20.pdf) | Mar 2020 | --- |
 | 5. | [_Mostly Harmless Econometrics_](https://mycourses.aalto.fi/pluginfile.php/203124/mod_resource/content/1/Angrist%20%20Pischke.pdf) | Mar 2020 | --- |
+| 6. | [_ExcelIsFun_](https://www.youtube.com/channel/UCkndrGoNpUDV-uia6a9jwVg) | Apr 2020 | --- |
 
 
 ### Next up (programming, statistics, and ML)
