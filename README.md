@@ -6,8 +6,6 @@ Information that I'm consuming to that end: _Statistical Inference_ (Casella and
 
 I also want to strenghten my SQL and data visualization skills since these are key skills for data analysts. To that end, I'll be working through SQLZoo.net, _The Business Intelligence Analyst Course 2019_, and _Data Visualization and Communication with Tableau_.
 
-Update: In my current job as a decision scientist, I'm finding Excel to be an extremely critical component of my work. So need to invest more time. Will be using [_ExcelIsFun_](https://www.youtube.com/channel/UCkndrGoNpUDV-uia6a9jwVg). 
-
 ### What I'm working on now
 
 - **Courses**
