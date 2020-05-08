@@ -1,6 +1,6 @@
+### Regression models 
 
-### Fixing coefficient signs in models
-
+- [Variable selection via clustering](https://web.stanford.edu/class/stats202/content/lec5-condensed.pdf)
 - [Oh No! I Got the Wrong Sign! What Should I do?](http://www.stat.columbia.edu/~gelman/stuff_for_blog/oh_no_I_got_the_wrong_sign.pdf)
 
 ### P-Values
