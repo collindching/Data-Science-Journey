@@ -35,3 +35,4 @@
 - [Displaying an index of posts](https://jekyllrb.com/docs/posts/)
 - [Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 - [Adding a theme to your GitHub page](https://help.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-using-jekyll#adding-a-jekyll-theme-in-your-sites-_configyml-file)
+- [Building a Personal Site with Jekyll & Minimal Mistakes](http://www.pwills.com/posts/2017/12/20/website.html)
