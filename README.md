@@ -1,11 +1,5 @@
 # My 2020 learning journey
 
-Learning components of data science
-- Statistics
-- Modeling
-- Software engineering
-- Business domains
-
 ### What I'm working on
 
 1. [_Elements of Statistical Learning_](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf)
