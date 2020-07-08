@@ -12,8 +12,8 @@
 - Statistics: Distribution notes
     - Normal
     - Student's T
-- Software: Review Python foundatinos
-    - Go over R TryCatch
+- Software: R programming -- error handling
+    - Go over `TryCatch`
 - Domain
     - Notes on stock valuation metrics
     - Survey _Statistics and Data Analysis for Financial Engineering_
@@ -22,6 +22,7 @@
 - Modeling: Multilevel project
 - Statistics
 - Software: Go over [Object-Oriented Programming](https://anandology.com/python-practice-book/object_oriented_programming.html)
+- Domain
 
 
 ## Past weeks
