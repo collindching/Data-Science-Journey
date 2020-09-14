@@ -56,15 +56,6 @@ I hope that by the end of 2020, I accomplish 80% of these goals. To bake these g
 - Deep Learning Book
 
 
-### Research papers
-A repository of place to find cutteng-edge research.
-
-- [Facebook AI](https://ai.facebook.com/research)
-- [Facebook Research](https://research.fb.com)
-- [Baidu Research](http://research.baidu.com/Research_Areas/index-view?id=55)
-- [OpenAI](https://openai.com/progress/)
-
-
 ### Links on learning
 Useful links to review for learning advice. Saw this [blog](https://reasoniamhere.com/2015/09/24/how-to-learn-a-foreign-language-from-the-comfort-of-your-home-dont-feel-bad-dont-get-bored-dont-give-up/) about learning languages - thought the advice was great.
 
